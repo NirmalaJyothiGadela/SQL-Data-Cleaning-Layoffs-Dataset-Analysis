@@ -85,10 +85,13 @@ Files included:
 ---
 
 ## 📂 Project Structure
+
+```
 ├── layoffs_raw.csv
 ├── layoffs_cleaned.csv
 ├── data_cleaning.sql
 └── README.md
+```
 
 ---
 
