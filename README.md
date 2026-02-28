@@ -84,14 +84,12 @@ Files included:
 
 ---
 
-## 📂 Project Structure
+## 📁 Files Included
 
-```
-├── layoffs_raw.csv
-├── layoffs_cleaned.csv
-├── data_cleaning.sql
-└── README.md
-```
+- **layoffs_raw.csv** — Original raw dataset  
+- **layoffs_cleaned.csv** — Cleaned dataset after SQL processing  
+- **data_cleaning.sql** — SQL script used for data cleaning  
+- **README.md** — Project documentation
 
 ---
 
